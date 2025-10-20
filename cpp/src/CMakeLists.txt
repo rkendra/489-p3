@@ -10,3 +10,6 @@
 #   wSenderOpt
 #   wReceiverOpt
 
+add_subdirectory(common)
+add_subdirectory(wSender)
+add_subdirectory(wReceiver)
